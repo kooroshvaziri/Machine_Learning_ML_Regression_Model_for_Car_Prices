@@ -66,7 +66,7 @@ Running a GridSearchCV pipeline shown below with Lasso automatic features select
 
 The Jupyter notebook for this iteration can be found in [SUV NoteBook](data/iteration_suv.ipynb). All three pipelines of Lasso, Ridge, and LR had significantly better scores around 8142 and 8350 for Train and Test data. First iteration of sorted 10-features revealed: year, odometer, 4 cylinders, 8 cylinders, drive_fwd, title_status_clean, toyota, rover, mitsubishi, transmission_automatic. Second iteration was performed by removing the fwd drivetrain and resulted in: year, odometer, 4 cylinders, 8 cylinders, title_status_clean, toyota, rover, mitsubishi, tesla, and transmission_automatic. While Year and Odometer are still the most dominant features, the negative coef of 4 cylinders suggest that buyers in the SUV market prefer more powerful cars, preferably a clean titled Toyota, Rover, or Tesla, and definitely not a Mitsubishi.
 
-![SUVs Features in 2 Iterations](images/suv_800.png)
+![SUVs Features in 2 Iterations](images/suvs_800.png)
 
 ## Sedans
 
