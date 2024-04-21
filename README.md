@@ -8,7 +8,7 @@ A car dealership works on the basis that they can buy cars for less than they ar
 
 # Jupyter Notebooks
 
-The first [Jupyter Notebook](data/first.ipynb) here provides the first cycle going through the CRISP-DM Process Model. After the first findings and insights, it was necessary to go back to the begining and reapeat the process as it will be explained below shortly. The additional notebooks can be found on here: [SUV NoteBook](data/iteration_suv.ipynb), [Sedan NoteBook](data/iteration_sedan.ipynb), and [Pickup NoteBook](data/iteration_pickup.ipynb).
+The first [Jupyter Notebook](data/AIML_practical2.ipynb) here provides the first cycle going through the CRISP-DM Process Model. After the first findings and insights, it was necessary to go back to the begining and reapeat the process as it will be explained below shortly. The additional notebooks can be found on here: [SUV NoteBook](data/iteration_suv.ipynb), [Sedan NoteBook](data/iteration_sedan.ipynb), and [Pickup NoteBook](data/iteration_pickup.ipynb).
 
 # Exploratory Data Analysis and Data Cleaning
 
